@@ -1,0 +1,592 @@
+import json
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+
+from pathlib import Path
+from typing import Union
+from itertools import permutations, combinations
+from typing import List, Optional, Dict, Tuple
+
+from Config.config import PATHS
+from Utils.cherrypick_simulations import CherryPickEquilibria
+
+class FocalRegion:
+    '''
+    Determines next action based on the focal region.
+    '''
+
+    def __init__(self, 
+                focal_region: np.ndarray,
+                category: str,
+                c: Optional[float] = 0.9,
+                steepness: Optional[float] = 10,
+            ) -> None:
+        assert(isinstance(focal_region, np.ndarray)), f"Error: region should be an np.ndarray, not {type(focal_region)}"
+        self.focal_region = focal_region
+        # self.focal_region = np.flipud(focal_region)
+        self.c = c
+        self.steepness = steepness
+        self.debug = False
+        self.shape = focal_region.shape
+        self.category = category
+
+    def similarity_score(self, region1: np.ndarray, region2: np.ndarray) -> float:
+        jaccard_score = self.jaccard_similarity_score(region1, region2)
+        # return 0.5 * (1 + jaccard_score)
+        return jaccard_score
+
+    def jaccard_similarity_score(self, region1: np.ndarray, region2: np.ndarray) -> float:
+        '''Jaccard similarity score between two regions.'''
+        assert region1.shape == region2.shape, f"Regions must have the same shape (but got {region1.shape} and {region2.shape})\n{region1}\n\n{region2}"
+        return np.sum(region1 == region2) / np.prod(region1.shape)
+
+    def get_region(self, n_cols: int, idx:int) -> np.ndarray:
+        if idx + n_cols <= self.focal_region.shape[1]:
+            region = self.focal_region[:, idx:idx+n_cols]
+        else:
+            max_idx = ((idx + n_cols) - self.focal_region.shape[1])
+            # print(f'(({idx} + {n_cols}) - {self.focal_region.shape[1]}) = {max_idx}')
+            region_ahead = self.focal_region[:, idx:]
+            # print(f'Region ahead:\n{region_ahead}')
+            region_behind = self.focal_region[:, 0:max_idx]
+            # print(f'Region behind:\n{region_behind}')
+            region = np.concatenate((region_ahead, region_behind), axis=1)
+        return region
+
+    def get_similarity_scores(self, history: np.ndarray) -> List[float]:
+        scores = []
+        if self.debug:
+            print('='*60)
+        for i in range(self.focal_region.shape[1]):
+            n_cols = history.shape[1]
+            region = self.get_region(n_cols, i)
+            score = self.similarity_score(history, region)
+            scores.append(score)
+            if self.debug:
+                print(f'\tCicle from column {i}:\n{region}')
+                print(f'\tSimilarity score: {score}')
+                print('-'*60)
+        return scores
+
+    def get_long_history_similarity_score(self, history: np.ndarray) -> List[float]:
+        scores = []
+        if self.debug:
+            print('='*60)
+        num_repetitions = history.shape[1] // self.focal_region.shape[1]
+        for j in range(self.focal_region.shape[1]):
+            score_segment_list = []
+            for i in range(num_repetitions):
+                start_col = j + i * self.focal_region.shape[1]
+                end_col = j + (i + 1) * self.focal_region.shape[1]
+                if end_col > history.shape[1]:
+                    break
+                history_segment = history[:, start_col:end_col]
+                scores_segment = self.similarity_score(history_segment, self.focal_region)
+                score_segment_list.append(scores_segment)
+            score = np.mean(score_segment_list)
+            scores.append(score)
+        return max(scores)
+
+    def get_action_preferences(
+                self, 
+                history: np.ndarray,
+                agent_id: int
+            ) -> np.ndarray:
+        scores = self.get_similarity_scores(history)
+        if self.debug:
+            print('-'*60)
+            print(f'Scores: {[f"{round(score, 2)}" for score in scores]}')
+            print(f'Finding preferences for player {agent_id} according to region')
+        raw_action_preferences = [[], []]
+        num_columns_region = self.focal_region.shape[1]
+        len_history = history.shape[1]
+        for idx_col in range(num_columns_region):
+            # Align history with region at column idx and find next column idx
+            next_idx_col = (idx_col + len_history) % num_columns_region
+            # Find action according to pattern at next column idx
+            action = int(self.focal_region[agent_id, next_idx_col])
+            assert action in [0, 1], f"Action should be 0 or 1, not {action}\n{self.focal_region}"
+            if self.debug:
+                msg = f"Pattern at column {idx_col} assigns similarity {scores[idx_col]} to action={'go' if action == 1 else 'no-go'}"
+                print(msg)
+            # Assign preferences according to similarity score
+
+            action_preference = scores[idx_col]
+            raw_action_preferences[action].append(action_preference)
+            raw_action_preferences[1 - action].append(0)
+
+            # raw_preferences = np.zeros(2)
+            # # raw_preferences[action] = scores[idx_col]
+            # # raw_preferences[1 - action] = 1 - scores[idx_col]
+            # raw_preferences[action] = np.clip(scores[idx_col], 0.5, 1) #### Add this to avoid increasing probability of opposing action due to low similarity
+            # raw_preferences[1 - action] = 0
+            # # raw_preferences[1 - action] = 1 - np.clip(scores[idx_col], 0.5, 1)
+            # raw_action_preferences[action].append(raw_preferences[action])
+            # raw_action_preferences[1 - action].append(raw_preferences[1 - action])
+            # if self.debug:
+            #     print(f"\tRaw preferences: {raw_action_preferences}")
+        
+        # action_preferences = [sum(raw_action_preferences[0]), sum(raw_action_preferences[1])]
+        action_preferences = [max(raw_action_preferences[0]), max(raw_action_preferences[1])]
+        if self.debug:
+            print(f"Action preferences: {[f"{round(score, 2)}" for score in action_preferences]}")
+            print('-'*60)
+            # # Pass through logistic
+            # logistic_preferences = self.normalized_logistic(raw_preferences)
+            # if self.debug:
+            #     print(f"\tLogistic preferences: {logistic_preferences}")
+            # # Add to action preferences
+            # action_preferences += logistic_preferences
+        # if self.debug:
+        #     print(f"Added and normalized preferences: {action_preferences}")
+        #     print('-'*60)
+        return action_preferences
+
+    def get_action_preferences_max(
+                self, 
+                history: np.ndarray,
+                agent_id: int
+            ) -> np.ndarray:
+        scores = self.get_similarity_scores(history)
+        if self.debug:
+            print(f'Scores: {scores}')
+        idx_similarity = np.argmax(scores)
+        idx_col = (idx_similarity + history.shape[1]) % self.focal_region.shape[1]
+        action = int(self.focal_region[agent_id, idx_col])
+        action_preferences = np.zeros(2)
+        action_preferences[action] = scores[idx_similarity]
+        return action_preferences
+
+    def __str__(self):
+        return '-'*60 + '\n' + str(self.focal_region) + '\n' + '-'*60
+
+    @staticmethod
+    def cycle_region(region: np.ndarray, idx: int) -> np.ndarray:
+        n_cols = region.shape[1]
+        indices = np.arange(0, n_cols)
+        indices = np.roll(indices, -idx)
+        region = region[:, indices] 
+        return region
+
+    @staticmethod
+    def draw_region(
+                region: np.ndarray, 
+                title: Optional[str] = None,
+                axes:Union[plt.Axes, None]=None,
+                file:Union[Path, None]=None
+            ) -> plt.Axes:
+        # Get number of rounds and agents
+        num_rounds = region.shape[1]
+        num_agents = region.shape[0]
+        region = np.flipud(region)
+        len_padding = 0
+        # Create plot
+        if axes is None:
+            fig, axes = plt.subplots(
+                figsize=(num_rounds, num_agents)
+            )
+        # Determine step sizes
+        step_x = 1/num_rounds
+        step_y = 1/num_agents
+        # Determine color
+        go_color='blue'
+        no_go_color='lightgray'
+        # Draw rectangles (go_color if player goes, gray if player doesnt go)
+        tangulos = []
+        for r in range(num_rounds):
+            for p in range(num_agents):
+                if region[p, r] == 1:
+                    color = go_color
+                elif region[p, r] == 0:
+                    color = no_go_color
+                else:
+                    color = 'none'
+                # Draw filled rectangle
+                tangulos.append(
+                    patches.Rectangle(
+                        (r*step_x,p*step_y),step_x,step_y,
+                        facecolor=color
+                    )
+                )
+        for r in range(len_padding, num_rounds + 1):
+            # Draw border
+            tangulos.append(
+                patches.Rectangle(
+                    (r*step_x,0),0,1,
+                    edgecolor='black',
+                    facecolor=no_go_color,
+                    linewidth=1
+                )
+            )
+        for p in range(num_agents + 1):
+            # Draw border
+            tangulos.append(
+                patches.Rectangle(
+                    (len_padding*step_x,p*step_y),1,0,
+                    edgecolor='black',
+                    facecolor=no_go_color,
+                    linewidth=1
+                )
+            )
+        for t in tangulos:
+            axes.add_patch(t)
+        axes.axis('off')
+        if title is not None:
+            axes.set_title(title)
+        if file is not None:
+            plt.savefig(file, dpi=300)
+        return axes
+
+    def normalized_logistic(self, x: np.ndarray) -> float:
+        """
+        Normalized logistic map [0,1] -> [0,1].
+
+        Parameters
+        ----------
+        x : float
+            Input in [0,1].
+        steepness : float
+            Controls the slope of the transition. Higher = sharper.
+        threshold : float
+            The midpoint of the S‐curve (where f(x)=0.5).
+
+        Returns
+        -------
+        float
+            f(x) in [0,1].
+        """
+        # raw logistic
+        raw = 1.0 / (1.0 + np.exp(-self.steepness * (x - self.c)))
+
+        # compute endpoints
+        raw0 = 1.0 / (1.0 + np.exp( self.steepness * self.c))      # f(0) before normalization
+        raw1 = 1.0 / (1.0 + np.exp(-self.steepness * (1.0 - self.c)))  # f(1) before normalization
+
+        # shift and scale so that f(0)==0 and f(1)==1
+        return (raw - raw0) / (raw1 - raw0)
+
+
+class SetFocalRegions:
+    '''Set of focal regions to be shared by all agents.'''
+    def __init__(
+                self, 
+                num_agents: int, 
+                threshold: float,
+                len_history: int,
+                c: Optional[float] = 0.9,
+                steepness: Optional[float] = 20,
+                max_regions: Optional[int] = 1,
+                from_file: Optional[bool] = False,
+                add_empirical_focal_regions: Optional[bool] = False,
+                seed: Optional[Union[int, None]] = None
+            ) -> None:
+        self.num_agents = num_agents
+        self.threshold = threshold
+        self.B = int(num_agents * threshold)
+        self.len_history = min(int(len_history), num_agents)
+        self.c = c
+        self.steepness = steepness
+        self.focal_regions = []
+        self.add_empirical_focal_regions = add_empirical_focal_regions
+        max_regions = 6
+        self.max_regions = min(int(max_regions), num_agents*2)
+        self.history = None
+        self.debug = False
+        if seed is None:
+            seed = np.random.randint(1000)
+        self.rng = np.random.default_rng(seed)
+        cherrypick = CherryPickEquilibria(
+            num_agents=self.num_agents,
+            threshold=self.threshold,
+            epsilon=0,
+            num_rounds=1,
+            num_episodes=1,
+            seed=seed
+        )
+        cherrypick.debug = False
+        self.cherrypick = cherrypick
+        self.from_file = from_file
+        self.create_file_path()
+
+    def create_file_path(self) -> None:
+        # file = f'{self.max_regions}_regions'
+        file = f'_{self.num_agents}_agents'
+        file += f'_{self.threshold}_threshold.json'
+        self.file = PATHS['focal_regions_path'] / file
+        self.file_empirical = PATHS['empirical_focal_regions_path'] / file
+
+    def add_history(self, obs: List[int]) -> None:
+        obs_array = np.array(obs).reshape(-1, 1)
+        if self.history is None:
+            self.history = obs_array
+        else:
+            self.history = np.concatenate((self.history, obs_array), axis=1)
+            self.history = self.history[:, -self.len_history:]
+
+    def generate_focal_regions(self) -> None:
+        '''Generates focal regions.'''
+        if self.from_file and not self.file.exists():
+            raise FileNotFoundError(f"Focal regions file {self.file} does not exist.")
+        if self.from_file and self.file.exists():
+            if self.debug:
+                print(f'Loading focal regions from {self.file}')
+            self.focal_regions = self.load_focal_regions()
+            return
+        if self.debug:
+            print(f'Generating focal regions for {self.num_agents} agents and {self.threshold} threshold')
+        fair_regions = self.generate_fair_regions()
+        segmented_regions = self.generate_segmented_regions()
+        mixed_regions = self.generate_mixed_regions()
+        self.focal_regions = self.equal_region_sizes([
+            self.unique_regions(fair_regions),
+            self.unique_regions(segmented_regions),
+            self.unique_regions(mixed_regions),
+        ])
+        if self.debug:
+            print(f'Generated {len(self.focal_regions)} focal regions')
+
+    def load_focal_regions_from_file(self, file: Path) -> List[FocalRegion]:
+        data = json.load(open(file, 'r'))
+        regions_by_category = {}
+        for region_dict in data:
+            region = np.array(region_dict['region'])
+            category = region_dict.get('category')
+            region_ = FocalRegion(
+                focal_region=region,
+                category=category,
+                c=self.c,
+                steepness=self.steepness
+            )
+            regions_by_category.setdefault(category, []).append(region_)
+        return regions_by_category
+
+    def load_empirical_focal_regions(self) -> List[FocalRegion]:
+        '''Generates empirical focal regions.'''
+        if not self.file_empirical.exists():
+            raise FileNotFoundError(f"Empirical focal regions file {self.file_empirical} does not exist.")
+        return self.load_focal_regions_from_file(self.file_empirical)
+
+    def load_focal_regions(self) -> List[FocalRegion]:
+        '''Loads up to self.max_regions from the file for this
+        num_agents and threshold, balanced across categories.'''
+        if not self.file.exists():
+            raise FileNotFoundError(f"Focal regions file {self.file} does not exist.")
+        regions_by_category = self.load_focal_regions_from_file(self.file)
+        if self.add_empirical_focal_regions:
+            empirical_regions = self.load_empirical_focal_regions()
+            for category, regions in empirical_regions.items():
+                if category in regions_by_category:
+                    regions_by_category[category].insert(0, regions[0])
+                else:
+                    regions_by_category[category] = [regions[0]]
+        # Match generation order: fair/alternation, segmented, mixed
+        preferred_order = ['fair', 'alternation', 'segmented', 'mixed']
+        list_regions = []
+        for category in preferred_order:
+            if category in regions_by_category:
+                list_regions.append(regions_by_category.pop(category))
+        for remaining in regions_by_category.values():
+            list_regions.append(remaining)
+        list_regions = [self.unique_regions(regions) for regions in list_regions]
+        return self.equal_region_sizes(list_regions)
+
+    def save_focal_regions(self) -> None:
+        '''Saves focal regions to file.'''
+        data = [{'region':region.focal_region.tolist(), 'category':region.category} for region in self.focal_regions]
+        with open(self.file, 'w') as f:
+            json.dump(data, f)
+
+    def generate_segmented_regions(self) -> List[FocalRegion]:
+        regions = []
+        for region in self.cherrypick.get_all_standard_segmented_equilibriums(period=self.num_agents):
+            region_ = FocalRegion(
+                focal_region=region,
+                category='segmented',
+                c=self.c,
+                steepness=self.steepness
+            )
+            regions.append(region_)
+        return regions
+
+    def generate_fair_regions(self) -> List[FocalRegion]:
+        regions = []
+        for region in self.cherrypick.get_all_standard_fair_periodic_equilibrium(period=self.num_agents):
+            region_ = FocalRegion(
+                focal_region=region,
+                category='alternation',
+                c=self.c,
+                steepness=self.steepness
+            )
+            regions.append(region_)
+        return regions
+
+    def generate_mixed_regions(self) -> List[FocalRegion]:
+        regions = []
+        for region in self.cherrypick.get_all_standard_mixed_periodic_equilibrium(period=self.num_agents):
+            region_ = FocalRegion(
+                focal_region=region,
+                category='mixed',
+                c=self.c,
+                steepness=self.steepness
+            )
+            regions.append(region_)
+        return regions
+
+    def get_action_preferences(self, agent_id: int) -> np.ndarray:
+        # Clipping history
+        self.history = self.history[:, -self.len_history:]
+        # Print for debug
+        if self.debug:
+            print('='*60)
+            print(f"Considering preferences from the viewpoint of agent {agent_id}")
+            print('='*60)
+            print('')
+            print('-'*60)
+            print(f'History:')
+            print(self.history)
+            print('-'*60)
+        # action_preferences = np.zeros(2)
+        action_preferences = np.ones(2) * (-np.inf)
+        for i, region in enumerate(self.focal_regions):
+            if self.debug:
+                print(f'Region {i}:')
+                print(region)
+            raw_preferences = region.get_action_preferences(self.history, agent_id)
+            # preferences = self.sigmoid(raw_preferences)
+            preferences = self.normalized_logistic(np.array(raw_preferences))
+            if self.debug:
+                print(f'Similarities according to region {i}:')
+                print(f'\tRaw similarities: {[f"{round(score, 2)}" for score in raw_preferences]}')
+                print(f'\tSigmoid similarities: {[f"{round(score, 2)}" for score in preferences]}')
+            # action_preferences += preferences
+            action_preferences = np.maximum(action_preferences, preferences)
+        if self.debug:
+            # print(f'Aggregated preferences: (no go={action_preferences[0]}; go={action_preferences[1]})')
+            print(f'Max preferences: (no go={np.max(action_preferences[0])}; go={np.max(action_preferences[1])})')
+
+        # if np.sum(action_preferences) == 0:
+        #     action_preferences = np.array([0.5, 0.5])
+        # else:
+        #     action_preferences /= np.sum(action_preferences)
+
+        # action_preferences = self.softmax(action_preferences)
+
+        if self.debug:
+            print(f'Normalized preferences: (no go={action_preferences[0]}; go={action_preferences[1]})')
+
+        return action_preferences
+
+    def softmax(self, x: np.ndarray) -> np.ndarray:
+        x = np.asarray(x, dtype=float)
+        x = x - np.max(x)
+        exp_x = np.exp(x)
+        return exp_x / np.sum(exp_x)
+
+    def normalized_logistic(self, x: np.ndarray) -> float:
+        """
+        Normalized logistic map [0,1] -> [0,1].
+
+        Parameters
+        ----------
+        x : float
+            Input in [0,1].
+        steepness : float
+            Controls the slope of the transition. Higher = sharper.
+        threshold : float
+            The midpoint of the S‐curve (where f(x)=0.5).
+
+        Returns
+        -------
+        float
+            f(x) in [0,1].
+        """
+        # raw logistic
+        raw = 1.0 / (1.0 + np.exp(-self.steepness * (x - self.c)))
+
+        # compute endpoints
+        raw0 = 1.0 / (1.0 + np.exp( self.steepness * self.c))      # f(0) before normalization
+        raw1 = 1.0 / (1.0 + np.exp(-self.steepness * (1.0 - self.c)))  # f(1) before normalization
+
+        # shift and scale so that f(0)==0 and f(1)==1
+        return (raw - raw0) / (raw1 - raw0)
+
+    @staticmethod
+    def region_key(region: FocalRegion) -> bytes:
+        '''Canonical key of a region, so that column cycles map to the same value.'''
+        arr = np.ascontiguousarray(region.focal_region)
+        return min(
+            np.ascontiguousarray(np.roll(arr, -shift, axis=1)).tobytes()
+            for shift in range(arr.shape[1])
+        )
+
+    @classmethod
+    def unique_regions(cls, regions: List[FocalRegion]) -> List[FocalRegion]:
+        '''Keep the first copy of each region, treating column cycles as the same.'''
+        seen = set()
+        unique = []
+        for region in regions:
+            key = cls.region_key(region)
+            if key not in seen:
+                seen.add(key)
+                unique.append(region)
+        return unique
+
+    @classmethod
+    def unique_regions_by_category(
+                cls,
+                list_regions: List[List[FocalRegion]]
+            ) -> List[List[FocalRegion]]:
+        '''Drop repeated regions, both inside each category and across categories.'''
+        seen = set()
+        deduplicated = []
+        for regions in list_regions:
+            kept = []
+            for region in regions:
+                key = cls.region_key(region)
+                if key not in seen:
+                    seen.add(key)
+                    kept.append(region)
+            deduplicated.append(kept)
+        return deduplicated
+
+    def equal_region_sizes(self, list_regions: List[List[FocalRegion]]) -> List[List[FocalRegion]]:
+        '''Takes up to self.max_regions regions, balanced across categories.'''
+        list_regions = self.unique_regions_by_category(list_regions)
+        lengths = [len(regions) for regions in list_regions]
+        #----------------------------------------
+        # Hand out slots in equal shares, giving unused
+        # ones back to the categories that can still fill them
+        #----------------------------------------
+        target_lengths = [0] * len(lengths)
+        remaining = int(self.max_regions)
+        while remaining > 0:
+            candidates = [i for i, l in enumerate(lengths) if target_lengths[i] < l]
+            if not candidates:
+                break
+            share = max(1, remaining // len(candidates))
+            for i in candidates:
+                if remaining == 0:
+                    break
+                taken = min(share, lengths[i] - target_lengths[i], remaining)
+                target_lengths[i] += taken
+                remaining -= taken
+        return [
+            region
+            for i, regions in enumerate(list_regions)
+            for region in regions[:target_lengths[i]]
+        ]
+
+    def __str__(self):
+        cadena = ''
+        for i, region in enumerate(self.focal_regions):
+            cadena += '=' * 60 + '\n'
+            cadena += f"Region {i}\n"
+            cadena += str(region) + '\n'
+        return cadena
+    
+    def __len__(self):
+        return len(self.focal_regions)
+
+
+

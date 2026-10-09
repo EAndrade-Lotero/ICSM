@@ -1,0 +1,2301 @@
+source,treatment,group,round,player,choice,score,attendance,ac_score,threshold,num_players,room,decision
+human,score + grid,Grupo-0001,1,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,1,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,2,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,2,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,3,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,3,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,4,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,4,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,5,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,5,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,6,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,6,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,7,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,7,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,8,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,8,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,9,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,9,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,10,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,10,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,11,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,11,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,12,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,12,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,13,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,13,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,14,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,14,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,15,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,15,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,16,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,16,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,17,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,17,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,18,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,18,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,19,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,19,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,20,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,20,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,21,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,21,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,22,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,22,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,23,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,23,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,24,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,24,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,25,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,25,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,26,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,26,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,27,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,27,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,28,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,28,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,29,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,29,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,30,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,30,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,31,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,31,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,32,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,32,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,33,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,33,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,34,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,34,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,35,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,35,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,36,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,36,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,37,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,37,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,38,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,38,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,39,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,39,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,40,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,40,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,41,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,41,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,42,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,42,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,43,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,43,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,44,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,44,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,45,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,45,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,46,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,46,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,47,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,47,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,48,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,48,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,49,728608683559397,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,49,405186428721292,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0001,50,405186428721292,1,1,1,25,0.5,2,Grupo-0001,1
+human,score + grid,Grupo-0001,50,728608683559397,0,0,1,25,0.5,2,Grupo-0001,0
+human,score + grid,Grupo-0002,1,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,1,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,2,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,2,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,3,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,3,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,4,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,4,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,5,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,5,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,6,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,6,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,7,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,7,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,8,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,8,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,9,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,9,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,10,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,10,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,11,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,11,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,12,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,12,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,13,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,13,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,14,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,14,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,15,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,15,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,16,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,16,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,17,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,17,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,18,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,18,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,19,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,19,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,20,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,20,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,21,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,21,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,22,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,22,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,23,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,23,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,24,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,24,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,25,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,25,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,26,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,26,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,27,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,27,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,28,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,28,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,29,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,29,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,30,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,30,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,31,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,31,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,32,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,32,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,33,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,33,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,34,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,34,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,35,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,35,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,36,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,36,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,37,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,37,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,38,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,38,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,39,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,39,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,40,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,40,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,41,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,41,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,42,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,42,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,43,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,43,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,44,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,44,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,45,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,45,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,46,481217814270509,1,1,1,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,46,752616835913204,0,0,1,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,47,752616835913204,1,-1,2,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,47,481217814270509,1,-1,2,4,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,48,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,48,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,49,752616835913204,1,1,1,-6,0.5,2,Grupo-0002,1
+human,score + grid,Grupo-0002,49,481217814270509,0,0,1,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,50,752616835913204,0,0,0,-6,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0002,50,481217814270509,0,0,0,4,0.5,2,Grupo-0002,0
+human,score + grid,Grupo-0003,1,592871351770528,0,0,1,26,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,1,193508520589663,1,1,1,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,2,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,2,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,3,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,3,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,4,592871351770528,0,0,1,26,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,4,193508520589663,1,1,1,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,5,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,5,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,6,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,6,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,7,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,7,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,8,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,8,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,9,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,9,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,10,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,10,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,11,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,11,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,12,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,12,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,13,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,13,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,14,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,14,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,15,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,15,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,16,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,16,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,17,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,17,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,18,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,18,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,19,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,19,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,20,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,20,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,21,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,21,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,22,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,22,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,23,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,23,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,24,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,24,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,25,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,25,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,26,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,26,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,27,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,27,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,28,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,28,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,29,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,29,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,30,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,30,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,31,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,31,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,32,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,32,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,33,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,33,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,34,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,34,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,35,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,35,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,36,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,36,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,37,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,37,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,38,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,38,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,39,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,39,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,40,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,40,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,41,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,41,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,42,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,42,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,43,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,43,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,44,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,44,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,45,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,45,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,46,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,46,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,47,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,47,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,48,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,48,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,49,193508520589663,0,0,1,-9,0.5,2,Grupo-0003,0
+human,score + grid,Grupo-0003,49,592871351770528,1,1,1,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,50,193508520589663,1,-1,2,-9,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0003,50,592871351770528,1,-1,2,26,0.5,2,Grupo-0003,1
+human,score + grid,Grupo-0004,1,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,1,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,2,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,2,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,3,586715482734049,1,1,1,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,3,60665347009372,0,0,1,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,4,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,4,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,5,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,5,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,6,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,6,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,7,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,7,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,8,60665347009372,0,0,1,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,8,586715482734049,1,1,1,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,9,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,9,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,10,60665347009372,0,0,1,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,10,586715482734049,1,1,1,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,11,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,11,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,12,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,12,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,13,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,13,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,14,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,14,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,15,586715482734049,0,0,0,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,15,60665347009372,0,0,0,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,16,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,16,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,17,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,17,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,18,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,18,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,19,60665347009372,0,0,1,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,19,586715482734049,1,1,1,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,20,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,20,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,21,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,21,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,22,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,22,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,23,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,23,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,24,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,24,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,25,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,25,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,26,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,26,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,27,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,27,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,28,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,28,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,29,60665347009372,0,0,0,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,29,586715482734049,0,0,0,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,30,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,30,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,31,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,31,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,32,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,32,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,33,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,33,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,34,60665347009372,0,0,0,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,34,586715482734049,0,0,0,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,35,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,35,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,36,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,36,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,37,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,37,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,38,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,38,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,39,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,39,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,40,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,40,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,41,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,41,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,42,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,42,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,43,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,43,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,44,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,44,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,45,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,45,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,46,60665347009372,1,-1,2,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,46,586715482734049,1,-1,2,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,47,586715482734049,1,1,1,-16,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,47,60665347009372,0,0,1,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,48,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0004,48,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,49,586715482734049,0,0,0,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,49,60665347009372,0,0,0,-1,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,50,586715482734049,0,0,1,-16,0.5,2,Grupo-0004,0
+human,score + grid,Grupo-0004,50,60665347009372,1,1,1,-1,0.5,2,Grupo-0004,1
+human,score + grid,Grupo-0005,1,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,1,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,2,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,2,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,3,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,3,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,4,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,4,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,5,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,5,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,6,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,6,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,7,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,7,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,8,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,8,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,9,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,9,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,10,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,10,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,11,497799619429244,0,0,0,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,11,117165631034112,0,0,0,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,12,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,12,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,13,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,13,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,14,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,14,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,15,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,15,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,16,497799619429244,1,-1,2,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,16,117165631034112,1,-1,2,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,17,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,17,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,18,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,18,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,19,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,19,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,20,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,20,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,21,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,21,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,22,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,22,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,23,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,23,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,24,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,24,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,25,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,25,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,26,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,26,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,27,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,27,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,28,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,28,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,29,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,29,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,30,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,30,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,31,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,31,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,32,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,32,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,33,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,33,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,34,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,34,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,35,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,35,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,36,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,36,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,37,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,37,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,38,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,38,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,39,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,39,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,40,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,40,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,41,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,41,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,42,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,42,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,43,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,43,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,44,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,44,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,45,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,45,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,46,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,46,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,47,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,47,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,48,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,48,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,49,497799619429244,1,1,1,10,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,49,117165631034112,0,0,1,9,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0005,50,117165631034112,1,1,1,9,0.5,2,Grupo-0005,1
+human,score + grid,Grupo-0005,50,497799619429244,0,0,1,10,0.5,2,Grupo-0005,0
+human,score + grid,Grupo-0006,1,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,1,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,2,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,2,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,3,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,3,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,4,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,4,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,5,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,5,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,6,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,6,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,7,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,7,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,8,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,8,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,9,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,9,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,10,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,10,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,11,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,11,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,12,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,12,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,13,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,13,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,14,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,14,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,15,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,15,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,16,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,16,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,17,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,17,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,18,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,18,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,19,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,19,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,20,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,20,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,21,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,21,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,22,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,22,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,23,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,23,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,24,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,24,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,25,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,25,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,26,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,26,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,27,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,27,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,28,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,28,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,29,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,29,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,30,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,30,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,31,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,31,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,32,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,32,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,33,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,33,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,34,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,34,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,35,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,35,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,36,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,36,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,37,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,37,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,38,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,38,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,39,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,39,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,40,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,40,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,41,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,41,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,42,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,42,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,43,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,43,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,44,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,44,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,45,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,45,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,46,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,46,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,47,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,47,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,48,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,48,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,49,899884536554788,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0006,49,642012059563901,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,50,899884536554788,0,0,1,25,0.5,2,Grupo-0006,0
+human,score + grid,Grupo-0006,50,642012059563901,1,1,1,25,0.5,2,Grupo-0006,1
+human,score + grid,Grupo-0007,1,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,1,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,2,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,2,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,3,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,3,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,4,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,4,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,5,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,5,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,6,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,6,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,7,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,7,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,8,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,8,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,9,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,9,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,10,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,10,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,11,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,11,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,12,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,12,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,13,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,13,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,14,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,14,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,15,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,15,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,16,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,16,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,17,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,17,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,18,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,18,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,19,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,19,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,20,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,20,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,21,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,21,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,22,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,22,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,23,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,23,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,24,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,24,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,25,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,25,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,26,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,26,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,27,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,27,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,28,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,28,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,29,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,29,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,30,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,30,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,31,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,31,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,32,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,32,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,33,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,33,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,34,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,34,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,35,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,35,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,36,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,36,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,37,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,37,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,38,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,38,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,39,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,39,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,40,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,40,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,41,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,41,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,42,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,42,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,43,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,43,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,44,381015246378985,0,0,0,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,44,958455151560277,0,0,0,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,45,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,45,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,46,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,46,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,47,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,47,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,48,958455151560277,1,-1,2,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,48,381015246378985,1,-1,2,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,49,381015246378985,0,0,1,0,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,49,958455151560277,1,1,1,9,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0007,50,958455151560277,0,0,1,9,0.5,2,Grupo-0007,0
+human,score + grid,Grupo-0007,50,381015246378985,1,1,1,0,0.5,2,Grupo-0007,1
+human,score + grid,Grupo-0008,1,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,1,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,2,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,2,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,3,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,3,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,4,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,4,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,5,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,5,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,6,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,6,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,7,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,7,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,8,583326773478798,0,0,0,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,8,266424456379660,0,0,0,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,9,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,9,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,10,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,10,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,11,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,11,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,12,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,12,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,13,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,13,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,14,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,14,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,15,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,15,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,16,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,16,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,17,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,17,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,18,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,18,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,19,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,19,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,20,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,20,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,21,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,21,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,22,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,22,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,23,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,23,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,24,583326773478798,0,0,0,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,24,266424456379660,0,0,0,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,25,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,25,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,26,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,26,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,27,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,27,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,28,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,28,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,29,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,29,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,30,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,30,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,31,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,31,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,32,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,32,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,33,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,33,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,34,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,34,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,35,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,35,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,36,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,36,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,37,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,37,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,38,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,38,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,39,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,39,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,40,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,40,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,41,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,41,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,42,583326773478798,1,-1,2,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,42,266424456379660,1,-1,2,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,43,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,43,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,44,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,44,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,45,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,45,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,46,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,46,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,47,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,47,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,48,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,48,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,49,583326773478798,1,1,1,13,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0008,49,266424456379660,0,0,1,14,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,50,583326773478798,0,0,1,13,0.5,2,Grupo-0008,0
+human,score + grid,Grupo-0008,50,266424456379660,1,1,1,14,0.5,2,Grupo-0008,1
+human,score + grid,Grupo-0009,1,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,1,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,2,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,2,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,3,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,3,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,4,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,4,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,5,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,5,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,6,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,6,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,7,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,7,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,8,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,8,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,9,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,9,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,10,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,10,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,11,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,11,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,12,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,12,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,13,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,13,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,14,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,14,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,15,570268857667366,0,0,0,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,15,392322336340966,0,0,0,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,16,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,16,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,17,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,17,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,18,570268857667366,1,-1,2,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,18,392322336340966,1,-1,2,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,19,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,19,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,20,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,20,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,21,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,21,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,22,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,22,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,23,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,23,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,24,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,24,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,25,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,25,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,26,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,26,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,27,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,27,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,28,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,28,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,29,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,29,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,30,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,30,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,31,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,31,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,32,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,32,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,33,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,33,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,34,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,34,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,35,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,35,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,36,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,36,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,37,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,37,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,38,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,38,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,39,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,39,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,40,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,40,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,41,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,41,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,42,392322336340966,0,0,0,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,42,570268857667366,0,0,0,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,43,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,43,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,44,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,44,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,45,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,45,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,46,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,46,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,47,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,47,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,48,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,48,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,49,392322336340966,0,0,1,10,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0009,49,570268857667366,1,1,1,11,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,50,392322336340966,1,1,1,10,0.5,2,Grupo-0009,1
+human,score + grid,Grupo-0009,50,570268857667366,0,0,1,11,0.5,2,Grupo-0009,0
+human,score + grid,Grupo-0010,1,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,1,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,2,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,2,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,3,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,3,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,4,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,4,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,5,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,5,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,6,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,6,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,7,806436351352675,0,0,1,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,7,483679535028663,1,1,1,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,8,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,8,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,9,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,9,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,10,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,10,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,11,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,11,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,12,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,12,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,13,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,13,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,14,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,14,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,15,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,15,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,16,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,16,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,17,806436351352675,0,0,1,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,17,483679535028663,1,1,1,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,18,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,18,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,19,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,19,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,20,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,20,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,21,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,21,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,22,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,22,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,23,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,23,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,24,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,24,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,25,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,25,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,26,483679535028663,1,1,1,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,26,806436351352675,0,0,1,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,27,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,27,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,28,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,28,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,29,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,29,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,30,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,30,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,31,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,31,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,32,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,32,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,33,806436351352675,0,0,1,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,33,483679535028663,1,1,1,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,34,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,34,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,35,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,35,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,36,483679535028663,1,1,1,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,36,806436351352675,0,0,1,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,37,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,37,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,38,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,38,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,39,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,39,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,40,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,40,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,41,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,41,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,42,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,42,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,43,483679535028663,0,0,0,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,43,806436351352675,0,0,0,1,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,44,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,44,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,45,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,45,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,46,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,46,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,47,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,47,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,48,806436351352675,1,-1,2,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,48,483679535028663,1,-1,2,-14,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,49,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,49,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,score + grid,Grupo-0010,50,483679535028663,0,0,1,-14,0.5,2,Grupo-0010,0
+human,score + grid,Grupo-0010,50,806436351352675,1,1,1,1,0.5,2,Grupo-0010,1
+human,only score,Grupo-0011,1,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,1,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,2,408405179210547,0,0,0,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,2,826599327153195,0,0,0,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,3,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,3,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,4,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,4,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,5,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,5,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,6,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,6,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,7,826599327153195,0,0,0,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,7,408405179210547,0,0,0,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,8,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,8,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,9,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,9,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,10,826599327153195,0,0,0,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,10,408405179210547,0,0,0,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,11,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,11,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,12,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,12,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,13,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,13,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,14,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,14,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,15,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,15,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,16,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,16,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,17,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,17,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,18,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,18,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,19,826599327153195,0,0,0,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,19,408405179210547,0,0,0,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,20,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,20,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,21,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,21,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,22,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,22,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,23,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,23,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,24,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,24,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,25,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,25,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,26,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,26,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,27,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,27,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,28,408405179210547,0,0,0,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,28,826599327153195,0,0,0,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,29,826599327153195,1,-1,2,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,29,408405179210547,1,-1,2,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,30,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,30,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,31,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,31,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,32,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,32,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,33,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,33,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,34,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,34,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,35,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,35,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,36,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,36,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,37,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,37,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,38,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,38,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,39,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,39,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,40,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,40,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,41,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,41,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,42,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,42,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,43,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,43,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,44,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,44,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,45,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,45,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,46,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,46,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,47,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,47,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,48,826599327153195,1,1,1,3,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,48,408405179210547,0,0,1,9,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,49,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,49,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0011,50,826599327153195,0,0,1,3,0.5,2,Grupo-0011,0
+human,only score,Grupo-0011,50,408405179210547,1,1,1,9,0.5,2,Grupo-0011,1
+human,only score,Grupo-0012,1,480199055624757,0,0,0,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,1,691638707567221,0,0,0,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,2,691638707567221,1,-1,2,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,2,480199055624757,1,-1,2,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,3,480199055624757,1,-1,2,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,3,691638707567221,1,-1,2,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,4,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,4,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,5,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,5,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,6,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,6,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,7,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,7,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,8,480199055624757,1,-1,2,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,8,691638707567221,1,-1,2,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,9,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,9,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,10,691638707567221,0,0,0,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,10,480199055624757,0,0,0,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,11,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,11,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,12,480199055624757,0,0,0,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,12,691638707567221,0,0,0,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,13,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,13,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,14,691638707567221,0,0,0,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,14,480199055624757,0,0,0,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,15,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,15,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,16,691638707567221,0,0,0,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,16,480199055624757,0,0,0,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,17,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,17,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,18,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,18,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,19,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,19,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,20,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,20,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,21,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,21,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,22,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,22,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,23,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,23,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,24,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,24,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,25,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,25,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,26,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,26,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,27,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,27,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,28,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,28,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,29,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,29,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,30,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,30,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,31,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,31,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,32,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,32,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,33,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,33,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,34,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,34,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,35,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,35,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,36,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,36,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,37,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,37,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,38,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,38,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,39,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,39,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,40,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,40,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,41,691638707567221,1,-1,2,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,41,480199055624757,1,-1,2,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,42,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,42,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,43,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,43,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,44,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,44,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,45,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,45,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,46,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,46,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,47,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,47,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,48,691638707567221,0,0,1,11,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,48,480199055624757,1,1,1,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,49,480199055624757,0,0,1,19,0.5,2,Grupo-0012,0
+human,only score,Grupo-0012,49,691638707567221,1,1,1,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,50,480199055624757,1,-1,2,19,0.5,2,Grupo-0012,1
+human,only score,Grupo-0012,50,691638707567221,1,-1,2,11,0.5,2,Grupo-0012,1
+human,only score,Grupo-0013,1,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,1,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,2,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,2,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,3,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,3,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,4,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,4,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,5,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,5,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,6,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,6,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,7,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,7,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,8,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,8,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,9,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,9,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,10,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,10,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,11,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,11,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,12,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,12,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,13,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,13,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,14,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,14,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,15,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,15,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,16,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,16,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,17,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,17,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,18,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,18,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,19,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,19,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,20,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,20,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,21,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,21,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,22,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,22,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,23,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,23,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,24,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,24,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,25,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,25,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,26,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,26,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,27,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,27,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,28,245070533883063,1,-1,2,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,28,500847240367863,1,-1,2,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,29,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,29,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,30,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,30,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,31,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,31,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,32,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,32,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,33,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,33,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,34,245070533883063,0,0,1,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,34,500847240367863,1,1,1,4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,35,500847240367863,0,0,0,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,35,245070533883063,0,0,0,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,36,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,36,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,37,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,37,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,38,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,38,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,39,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,39,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,40,500847240367863,0,0,0,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,40,245070533883063,0,0,0,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,41,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,41,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,42,500847240367863,0,0,0,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,42,245070533883063,0,0,0,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,43,500847240367863,0,0,0,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,43,245070533883063,0,0,0,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,44,245070533883063,0,0,0,-4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,44,500847240367863,0,0,0,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,45,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,45,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,46,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,46,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,47,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,47,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,48,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,48,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,49,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,49,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0013,50,500847240367863,0,0,1,4,0.5,2,Grupo-0013,0
+human,only score,Grupo-0013,50,245070533883063,1,1,1,-4,0.5,2,Grupo-0013,1
+human,only score,Grupo-0014,1,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,1,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,2,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,2,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,3,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,3,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,4,463228022708396,1,-1,2,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,4,264457402264388,1,-1,2,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,5,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,5,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,6,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,6,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,7,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,7,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,8,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,8,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,9,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,9,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,10,463228022708396,1,-1,2,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,10,264457402264388,1,-1,2,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,11,264457402264388,1,-1,2,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,11,463228022708396,1,-1,2,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,12,463228022708396,0,0,0,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,12,264457402264388,0,0,0,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,13,264457402264388,1,-1,2,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,13,463228022708396,1,-1,2,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,14,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,14,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,15,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,15,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,16,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,16,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,17,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,17,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,18,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,18,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,19,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,19,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,20,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,20,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,21,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,21,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,22,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,22,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,23,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,23,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,24,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,24,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,25,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,25,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,26,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,26,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,27,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,27,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,28,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,28,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,29,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,29,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,30,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,30,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,31,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,31,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,32,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,32,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,33,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,33,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,34,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,34,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,35,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,35,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,36,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,36,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,37,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,37,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,38,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,38,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,39,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,39,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,40,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,40,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,41,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,41,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,42,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,42,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,43,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,43,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,44,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,44,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,45,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,45,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,46,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,46,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,47,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,47,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,48,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,48,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,49,463228022708396,1,1,1,17,0.5,2,Grupo-0014,1
+human,only score,Grupo-0014,49,264457402264388,0,0,1,20,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,50,463228022708396,0,0,1,17,0.5,2,Grupo-0014,0
+human,only score,Grupo-0014,50,264457402264388,1,1,1,20,0.5,2,Grupo-0014,1
+human,only score,Grupo-0015,1,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,1,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,2,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,2,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,3,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,3,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,4,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,4,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,5,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,5,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,6,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,6,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,7,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,7,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,8,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,8,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,9,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,9,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,10,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,10,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,11,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,11,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,12,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,12,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,13,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,13,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,14,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,14,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,15,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,15,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,16,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,16,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,17,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,17,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,18,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,18,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,19,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,19,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,20,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,20,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,21,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,21,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,22,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,22,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,23,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,23,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,24,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,24,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,25,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,25,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,26,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,26,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,27,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,27,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,28,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,28,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,29,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,29,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,30,468629311826309,1,-1,2,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,30,724210853042950,1,-1,2,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,31,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,31,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,32,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,32,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,33,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,33,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,34,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,34,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,35,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,35,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,36,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,36,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,37,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,37,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,38,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,38,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,39,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,39,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,40,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,40,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,41,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,41,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,42,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,42,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,43,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,43,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,44,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,44,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,45,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,45,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,46,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,46,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,47,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,47,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,48,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,48,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,49,724210853042950,1,1,1,14,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,49,468629311826309,0,0,1,15,0.5,2,Grupo-0015,0
+human,only score,Grupo-0015,50,468629311826309,1,1,1,15,0.5,2,Grupo-0015,1
+human,only score,Grupo-0015,50,724210853042950,0,0,1,14,0.5,2,Grupo-0015,0
+human,only score,Grupo-0016,1,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,1,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,2,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,2,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,3,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,3,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,4,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,4,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,5,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,5,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,6,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,6,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,7,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,7,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,8,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,8,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,9,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,9,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,10,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,10,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,11,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,11,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,12,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,12,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,13,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,13,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,14,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,14,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,15,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,15,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,16,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,16,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,17,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,17,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,18,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,18,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,19,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,19,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,20,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,20,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,21,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,21,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,22,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,22,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,23,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,23,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,24,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,24,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,25,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,25,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,26,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,26,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,27,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,27,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,28,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,28,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,29,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,29,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,30,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,30,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,31,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,31,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,32,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,32,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,33,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,33,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,34,764155487837971,0,0,0,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,34,61697837637039,0,0,0,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,35,764155487837971,1,-1,2,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,35,61697837637039,1,-1,2,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,36,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,36,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,37,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,37,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,38,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,38,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,39,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,39,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,40,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,40,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,41,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,41,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,42,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,42,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,43,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,43,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,44,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,44,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,45,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,45,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,46,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,46,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,47,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,47,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,48,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,48,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,49,61697837637039,1,1,1,2,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,49,764155487837971,0,0,1,6,0.5,2,Grupo-0016,0
+human,only score,Grupo-0016,50,764155487837971,1,1,1,6,0.5,2,Grupo-0016,1
+human,only score,Grupo-0016,50,61697837637039,0,0,1,2,0.5,2,Grupo-0016,0
+human,only score,Grupo-0017,1,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,1,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,2,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,2,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,3,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,3,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,4,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,4,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,5,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,5,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,6,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,6,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,7,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,7,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,8,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,8,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,9,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,9,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,10,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,10,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,11,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,11,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,12,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,12,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,13,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,13,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,14,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,14,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,15,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,15,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,16,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,16,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,17,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,17,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,18,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,18,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,19,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,19,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,20,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,20,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,21,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,21,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,22,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,22,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,23,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,23,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,24,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,24,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,25,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,25,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,26,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,26,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,27,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,27,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,28,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,28,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,29,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,29,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,30,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,30,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,31,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,31,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,32,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,32,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,33,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,33,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,34,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,34,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,35,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,35,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,36,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,36,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,37,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,37,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,38,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,38,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,39,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,39,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,40,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,40,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,41,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,41,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,42,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,42,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,43,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,43,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,44,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,44,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,45,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,45,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,46,678948760449731,0,0,1,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,46,817293722184263,1,1,1,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,47,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,47,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,48,817293722184263,0,0,1,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,48,678948760449731,1,1,1,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,49,817293722184263,1,-1,2,0,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,49,678948760449731,1,-1,2,-10,0.5,2,Grupo-0017,1
+human,only score,Grupo-0017,50,817293722184263,0,0,0,0,0.5,2,Grupo-0017,0
+human,only score,Grupo-0017,50,678948760449731,0,0,0,-10,0.5,2,Grupo-0017,0
+human,only score,Grupo-0018,1,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,1,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,2,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,2,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,3,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,3,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,4,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,4,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,5,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,5,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,6,921609061380903,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,6,196901325209443,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,7,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,7,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,8,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,8,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,9,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,9,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,10,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,10,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,11,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,11,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,12,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,12,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,13,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,13,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,14,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,14,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,15,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,15,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,16,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,16,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,17,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,17,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,18,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,18,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,19,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,19,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,20,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,20,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,21,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,21,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,22,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,22,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,23,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,23,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,24,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,24,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,25,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,25,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,26,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,26,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,27,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,27,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,28,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,28,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,29,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,29,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,30,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,30,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,31,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,31,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,32,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,32,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,33,921609061380903,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,33,196901325209443,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,34,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,34,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,35,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,35,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,36,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,36,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,37,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,37,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,38,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,38,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,39,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,39,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,40,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,40,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,41,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,41,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,42,921609061380903,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,42,196901325209443,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,43,921609061380903,0,0,1,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,43,196901325209443,1,1,1,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,44,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,44,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,45,196901325209443,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,45,921609061380903,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,46,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,46,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,47,196901325209443,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,47,921609061380903,0,0,0,-7,0.5,2,Grupo-0018,0
+human,only score,Grupo-0018,48,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,48,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,49,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,49,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,50,196901325209443,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0018,50,921609061380903,1,-1,2,-7,0.5,2,Grupo-0018,1
+human,only score,Grupo-0019,1,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,1,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,2,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,2,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,3,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,3,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,4,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,4,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,5,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,5,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,6,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,6,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,7,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,7,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,8,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,8,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,9,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,9,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,10,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,10,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,11,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,11,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,12,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,12,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,13,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,13,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,14,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,14,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,15,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,15,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,16,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,16,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,17,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,17,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,18,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,18,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,19,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,19,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,20,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,20,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,21,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,21,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,22,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,22,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,23,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,23,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,24,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,24,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,25,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,25,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,26,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,26,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,27,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,27,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,28,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,28,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,29,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,29,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,30,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,30,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,31,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,31,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,32,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,32,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,33,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,33,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,34,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,34,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,35,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,35,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,36,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,36,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,37,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,37,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,38,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,38,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,39,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,39,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,40,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,40,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,41,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,41,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,42,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,42,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,43,468249015685805,0,0,0,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,43,13356387721893,0,0,0,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,44,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,44,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,45,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,45,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,46,468249015685805,1,-1,2,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,46,13356387721893,1,-1,2,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,47,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,47,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,48,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,48,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,49,13356387721893,1,1,1,0,0.5,2,Grupo-0019,1
+human,only score,Grupo-0019,49,468249015685805,0,0,1,-12,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,50,13356387721893,0,0,1,0,0.5,2,Grupo-0019,0
+human,only score,Grupo-0019,50,468249015685805,1,1,1,-12,0.5,2,Grupo-0019,1
+human,only score,Grupo-0020,1,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,1,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,2,911083385335064,1,1,1,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,2,808621019940568,0,0,1,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,3,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,3,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,4,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,4,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,5,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,5,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,6,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,6,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,7,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,7,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,8,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,8,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,9,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,9,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,10,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,10,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,11,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,11,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,12,808621019940568,0,0,1,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,12,911083385335064,1,1,1,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,13,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,13,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,14,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,14,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,15,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,15,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,16,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,16,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,17,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,17,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,18,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,18,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,19,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,19,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,20,808621019940568,0,0,1,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,20,911083385335064,1,1,1,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,21,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,21,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,22,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,22,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,23,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,23,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,24,911083385335064,1,1,1,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,24,808621019940568,0,0,1,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,25,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,25,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,26,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,26,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,27,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,27,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,28,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,28,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,29,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,29,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,30,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,30,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,31,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,31,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,32,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,32,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,33,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,33,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,34,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,34,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,35,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,35,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,36,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,36,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,37,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,37,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,38,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,38,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,39,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,39,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,40,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,40,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,41,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,41,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,42,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,42,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,43,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,43,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,44,911083385335064,0,0,0,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,44,808621019940568,0,0,0,9,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,45,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,45,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,46,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,46,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,47,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,47,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,48,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0020,48,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,49,808621019940568,1,-1,2,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,49,911083385335064,1,-1,2,-11,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,50,808621019940568,1,1,1,9,0.5,2,Grupo-0020,1
+human,only score,Grupo-0020,50,911083385335064,0,0,1,-11,0.5,2,Grupo-0020,0
+human,only score,Grupo-0021,1,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,1,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,2,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,2,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,3,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,3,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,4,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,4,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,5,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,5,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,6,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,6,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,7,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,7,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,8,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,8,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,9,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,9,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,10,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,10,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,11,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,11,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,12,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,12,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,13,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,13,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,14,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,14,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,15,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,15,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,16,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,16,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,17,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,17,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,18,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,18,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,19,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,19,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,20,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,20,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,21,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,21,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,22,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,22,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,23,907597849867592,1,-1,2,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,23,83133970959175,1,-1,2,-1,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,24,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,24,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,25,907597849867592,0,0,0,42,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,25,83133970959175,0,0,0,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,26,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,26,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,27,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,27,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,28,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,28,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,29,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,29,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,30,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,30,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,31,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,31,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,32,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,32,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,33,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,33,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,34,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,34,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,35,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,35,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,36,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,36,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,37,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,37,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,38,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,38,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,39,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,39,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,40,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,40,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,41,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,41,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,42,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,42,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,43,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,43,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,44,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,44,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,45,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,45,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,46,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,46,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,47,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,47,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,48,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,48,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,49,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,49,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0021,50,907597849867592,1,1,1,42,0.5,2,Grupo-0021,1
+human,only score,Grupo-0021,50,83133970959175,0,0,1,-1,0.5,2,Grupo-0021,0
+human,only score,Grupo-0022,1,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,1,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,2,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,2,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,3,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,3,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,4,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,4,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,5,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,5,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,6,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,6,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,7,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,7,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,8,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,8,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,9,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,9,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,10,563173503837429,0,0,0,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,10,918915269507625,0,0,0,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,11,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,11,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,12,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,12,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,13,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,13,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,14,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,14,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,15,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,15,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,16,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,16,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,17,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,17,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,18,563173503837429,0,0,0,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,18,918915269507625,0,0,0,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,19,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,19,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,20,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,20,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,21,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,21,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,22,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,22,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,23,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,23,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,24,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,24,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,25,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,25,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,26,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,26,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,27,918915269507625,0,0,1,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,27,563173503837429,1,1,1,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,28,563173503837429,0,0,0,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,28,918915269507625,0,0,0,-9,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,29,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,29,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,30,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,30,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,31,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,31,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,32,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,32,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,33,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,33,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,34,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,34,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,35,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,35,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,36,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,36,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,37,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,37,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,38,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,38,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,39,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,39,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,40,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,40,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,41,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,41,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,42,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,42,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,43,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,43,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,44,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,44,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,45,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,45,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,46,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,46,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,47,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0022,47,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,48,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,48,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,49,918915269507625,1,-1,2,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,49,563173503837429,1,-1,2,-7,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,50,918915269507625,1,1,1,-9,0.5,2,Grupo-0022,1
+human,only score,Grupo-0022,50,563173503837429,0,0,1,-7,0.5,2,Grupo-0022,0
+human,only score,Grupo-0023,1,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,1,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,2,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,2,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,3,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,3,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,4,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,4,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,5,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,5,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,6,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,6,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,7,405074693615800,0,0,0,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,7,727967798557118,0,0,0,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,8,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,8,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,9,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,9,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,10,405074693615800,0,0,0,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,10,727967798557118,0,0,0,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,11,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,11,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,12,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,12,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,13,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,13,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,14,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,14,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,15,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,15,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,16,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,16,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,17,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,17,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,18,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,18,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,19,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,19,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,20,405074693615800,0,0,0,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,20,727967798557118,0,0,0,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,21,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,21,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,22,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,22,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,23,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,23,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,24,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,24,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,25,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,25,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,26,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,26,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,27,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,27,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,28,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,28,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,29,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,29,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,30,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,30,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,31,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,31,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,32,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,32,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,33,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,33,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,34,405074693615800,1,-1,2,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,34,727967798557118,1,-1,2,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,35,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,35,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,36,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,36,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,37,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,37,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,38,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,38,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,39,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,39,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,40,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,40,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,41,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,41,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,42,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,42,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,43,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,43,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,44,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,44,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,45,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,45,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,46,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,46,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,47,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,47,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,48,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,48,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,49,405074693615800,1,1,1,4,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,49,727967798557118,0,0,1,-5,0.5,2,Grupo-0023,0
+human,only score,Grupo-0023,50,727967798557118,1,1,1,-5,0.5,2,Grupo-0023,1
+human,only score,Grupo-0023,50,405074693615800,0,0,1,4,0.5,2,Grupo-0023,0
