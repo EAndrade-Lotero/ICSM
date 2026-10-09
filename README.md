@@ -63,7 +63,7 @@ All models are defined in `src/Classes/cognitive_model_agents.py`:
 
 <img src="./el_farol.png" alt="Round loop" width="450">
 
-El Farol Bar problem. In each round, every player independently decides whether to \emph{Go} to the bar or \emph{Stay} home. The bar has a fixed capacity, so attending is rewarding only if the number of attendees does not exceed this threshold; otherwise, staying home yields the better outcome. The matrix illustrates one game trajectory: rows correspond to players, columns to rounds (days), and each cell represents a player's decision (blue=*Go*, yellow=*Stay*). 
+El Farol Bar problem. In each round, every player independently decides whether to *Go* to the bar or *Stay* home. The bar has a fixed capacity, so attending is rewarding only if the number of attendees does not exceed this threshold; otherwise, staying home yields the better outcome. The matrix illustrates one game trajectory: rows correspond to players, columns to rounds (days), and each cell represents a player's decision (blue=*Go*, yellow=*Stay*). 
 
 <img src="./types_of_coordination.png" alt="Round loop" width="450">
 
