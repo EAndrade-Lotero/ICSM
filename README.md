@@ -2,13 +2,13 @@
 
 This project contains the computational models that implement an agent-based model of the El Farol Bar Problem (Arthur, 1994). Each agent decides to stay home or go to the bar. A model first scores the two actions, then turns those scores into probabilities with a softmax:
 
-$$
+\[
 \pi(a \mid \mathcal{S}, m, \theta)
 =
 \frac{\exp\!\big(\beta \cdot \mathrm{preference}(a, \mathcal{S}, m, \theta)\big)}
 {\sum_{b \in \{\mathrm{stay},\, \mathrm{go}\}}
 \exp\!\big(\beta \cdot \mathrm{preference}(b, \mathcal{S}, m, \theta)\big)}
-$$
+\]
 
 where $\beta$ is the inverse temperature, and $\mathrm{preference}(a, \mathcal{S}, m, \theta)$ is how strongly model $m$ with parameters $\theta$ favors action $a$ after information state $\mathcal{S}$ (the previous round or rounds).
 
