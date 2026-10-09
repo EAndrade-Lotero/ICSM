@@ -1,6 +1,6 @@
 # Iterative Cognitive Schema Matching
 
-This project contains the computational models that implement an agent-based model of the El Farol Bar Problem (Arthur, 1994). Each agent decides to stay home or go to the bar. 
+This project contains the computational models that implement an agent-based model of the [El Farol Bar problem](https://sites.santafe.edu/~wbarthur/elfarol.htm) (Arthur, 1994).
 
 The models assume that players have an information level, which is a representation $\mathcal{S}$ of the previous state. Each player samples their actions from a probability distribution defined for a given $\mathcal{S}$, denoted as $\pi(\mathcal{S})$. For all models, this distribution is based on a softmax function over preferences, that is, the probability of each action is defined as follows:
 
