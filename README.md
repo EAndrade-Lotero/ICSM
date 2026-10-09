@@ -8,7 +8,7 @@ $$
 \pi(a | \mathcal{S}, m,\theta)\,{=}\,\frac{exp(\beta \cdot preference(a, \mathcal{S}, m,\theta))}{\sum_{b \in \{0,1\}} exp\left(\beta \cdot preference(b, \mathcal{S},  m,\theta)\right)},
 $$
 
-where $\beta$ is the inverse temperature parameter, and $\textsc{preference}(a, \mathcal{S}, m, \theta)$ represents the preference for action $a$ in information state $\mathcal{S}$ according to model $m$ with parameters $\theta$. Each model specifies how preferences are determined.
+where $\beta$ is the inverse temperature parameter, and $preference(a, \mathcal{S}, m, \theta)$ represents the preference for action $a$ in information state $\mathcal{S}$ according to model $m$ with parameters $\theta$. Each model specifies how preferences are determined.
 
 <img src="./diagram.png" alt="Round loop" width="720">
 
