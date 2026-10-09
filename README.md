@@ -10,7 +10,7 @@ $$
 
 where $\beta$ is the inverse temperature parameter, and $preference(a, \mathcal{S}, m, \theta)$ represents the preference for action $a$ in information state $\mathcal{S}$ according to model $m$ with parameters $\theta$. Each model specifies how preferences are determined.
 
-<img src="./diagram.png" alt="Round loop" width="720">
+<img src="./diagram.png" alt="Round loop" width="450">
 
 Each Agent $i$ makes a decision $a^i$ by sampling from the softmax distribution of the current action preferences. The Bar consolidates the state $s=\langle a^1,\ldots,a^N\rangle$, calculates the attendance $A$, and computes the payoff for each agent. The agent's information processor receives $s$ and presents to the model an information state $\mathcal{S}$ according to is level. Next, the model updates the action preferences and the cycle repeats for $K$ rounds.
 
@@ -22,7 +22,7 @@ Most learning rules come in three variants, which differ only in what they treat
 | M2 | Its own last action and how many others went |
 | M3 | The full list of who went |
 
-The models combine four ideas. Single ideas sit on the first row. Rows below mix those ideas.
+The models combine four ideas. Single ideas sit on the last row. Rows above mix ideas from previous levels.
 
 ```mermaid
 flowchart BT
@@ -58,6 +58,20 @@ All models are defined in `src/Classes/cognitive_model_agents.py`:
 | Random | `Random` | Go with a fixed probability | No |
 | Priors | `PriorsM1`, `PriorsM2`, `PriorsM3` | A separate fixed go probability for each situation | No |
 
+
+## Coordination patterns as cognitive schemata for solving open-ended coordination problems
+
+<img src="./el_farol.png" alt="Round loop" width="450">
+
+El Farol Bar problem. In each round, every player independently decides whether to \emph{Go} to the bar or \emph{Stay} home. The bar has a fixed capacity, so attending is rewarding only if the number of attendees does not exceed this threshold; otherwise, staying home yields the better outcome. The matrix illustrates one game trajectory: rows correspond to players, columns to rounds (days), and each cell represents a player's decision (blue=*Go*, yellow=*Stay*). 
+
+<img src="./types_of_coordination.png" alt="Round loop" width="450">
+
+The colored bar beneath each column indicates the collective outcome (green = attendance within capacity, red = overcrowding). **B**--**E**: Examples of coordination patterns in the El Farol Bar problem with three players and a bar capacity of two. In each pattern, exactly two players attend the bar every day, making the resulting repeated strategy profile a Nash equilibrium. The patterns in the left column allow some players to attend every week at the expense of others, whereas those in the right column distribute attendance equally among all players. 
+
+<img src="./cognitive_schema_matching.png" alt="Round loop" width="450">
+
+Heuristic selection of cognitive schemas. Starting from a history of attendance decisions, **F**, and a small repertoire of cognitive schemas, **G**, individuals evaluate the similarity between the observed history and each candidate schema. Each schema encodes a complete set of policies, specifying who performs which action and when. In some situations, a single schema is clearly favored; in others, multiple schemas remain plausible. Individuals then act according to the selected schema, **H**, generating a new history, **I**, and repeating the process. In this example, the dynamics will converge to the coordination pattern shown in **D**.
 
 ## How to run
 
