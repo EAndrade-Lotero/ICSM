@@ -1,22 +1,18 @@
 # Iterative Cognitive Schema Matching
 
-This project contains the computational models that implement an agent-based model of the El Farol Bar Problem (Arthur, 1994). Each agent decides to stay home or go to the bar. A model first scores the two actions, then turns those scores into probabilities with a softmax:
+This project contains the computational models that implement an agent-based model of the El Farol Bar Problem (Arthur, 1994). Each agent decides to stay home or go to the bar. 
 
-\[
-\pi(a \mid \mathcal{S}, m, \theta)
-=
-\frac{\exp\!\big(\beta \cdot \mathrm{preference}(a, \mathcal{S}, m, \theta)\big)}
-{\sum_{b \in \{\mathrm{stay},\, \mathrm{go}\}}
-\exp\!\big(\beta \cdot \mathrm{preference}(b, \mathcal{S}, m, \theta)\big)}
-\]
+The models assume that players have an information level, which is a representation $\mathcal{S}$ of the previous state. Each player samples their actions from a probability distribution defined for a given $\mathcal{S}$, denoted as $\pi(\mathcal{S})$. For all models, this distribution is based on a softmax function over preferences, that is, the probability of each action is defined as follows:
 
-where $\beta$ is the inverse temperature, and $\mathrm{preference}(a, \mathcal{S}, m, \theta)$ is how strongly model $m$ with parameters $\theta$ favors action $a$ after information state $\mathcal{S}$ (the previous round or rounds).
+\begin{equation}
+\pi(a | \mathcal{S}, m,\theta)\,{=}\,\frac{\exp(\beta \cdot \textsc{preference}(a, \mathcal{S}, m,\theta))}{\sum_{b \in \{0,1\}} \exp\left(\beta \cdot \textsc{preference}(b, \mathcal{S},  m,\theta)\right)},
+\end{equation}
+
+where $\beta$ is the inverse temperature parameter, and $\textsc{preference}(a, \mathcal{S}, m, \theta)$ represents the preference for action $a$ in information state $\mathcal{S}$ according to model $m$ with parameters $\theta$. Each model specifies how preferences are determined.
 
 <img src="./diagram.png" alt="Round loop" width="720">
 
-Each round follows that loop. Agents predict attendance from who went in earlier rounds and from the predictor they are currently using. They then stay or go. The formula above is that choice: the active predictor scores the two actions, and the softmax turns those scores into a probability. A larger $\beta$ makes the higher-scored action more likely. On the first round there is no history, so the choice is random.
-
-The actions in a round produce a new attendance. From there the loop splits. One branch records each agent's score and adds the round to memory, which is what the next prediction reads. The other branch records how far the active predictor was from the attendance that actually occurred. Agents can then drop that predictor for one that has been less wrong, and the next round starts from that choice.
+Each Agent $i$ makes a decision $a^i$ by sampling from the softmax distribution of the current action preferences. The Bar consolidates the state $\bm{s}=\langle a^1,\ldots,a^N\rangle$, calculates the attendance $A$, and computes the payoff for each agent. The agent's information processor receives $\bm{s}$ and presents to the model an information state $\mathcal{S}$ according to is level. Next, the model updates the action preferences and the cycle repeats for $K$ rounds.
 
 Most learning rules come in three variants, which differ only in what they treat as $\mathcal{S}$:
 
