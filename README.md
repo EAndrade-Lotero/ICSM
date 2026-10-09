@@ -62,7 +62,6 @@ All models are defined in `src/Classes/cognitive_model_agents.py`:
 | Random | `Random` | Go with a fixed probability | No |
 | Priors | `PriorsM1`, `PriorsM2`, `PriorsM3` | A separate fixed go probability for each situation | No |
 
-`Priors` is defined in the code but left out of the `MODELS` list used for fitting.
 
 ## How to run
 
