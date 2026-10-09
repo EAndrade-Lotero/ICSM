@@ -4,9 +4,9 @@ This project contains the computational models that implement an agent-based mod
 
 The models assume that players have an information level, which is a representation $\mathcal{S}$ of the previous state. Each player samples their actions from a probability distribution defined for a given $\mathcal{S}$, denoted as $\pi(\mathcal{S})$. For all models, this distribution is based on a softmax function over preferences, that is, the probability of each action is defined as follows:
 
-\begin{equation}
-\pi(a | \mathcal{S}, m,\theta)\,{=}\,\frac{\exp(\beta \cdot \textsc{preference}(a, \mathcal{S}, m,\theta))}{\sum_{b \in \{0,1\}} \exp\left(\beta \cdot \textsc{preference}(b, \mathcal{S},  m,\theta)\right)},
-\end{equation}
+$$
+\pi(a | \mathcal{S}, m,\theta)\,{=}\,\frac{exp(\beta \cdot preference(a, \mathcal{S}, m,\theta))}{\sum_{b \in \{0,1\}} exp\left(\beta \cdot preference(b, \mathcal{S},  m,\theta)\right)},
+$$
 
 where $\beta$ is the inverse temperature parameter, and $\textsc{preference}(a, \mathcal{S}, m, \theta)$ represents the preference for action $a$ in information state $\mathcal{S}$ according to model $m$ with parameters $\theta$. Each model specifies how preferences are determined.
 
