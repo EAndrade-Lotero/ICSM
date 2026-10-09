@@ -12,7 +12,7 @@ where $\beta$ is the inverse temperature parameter, and $preference(a, \mathcal{
 
 <img src="./diagram.png" alt="Round loop" width="720">
 
-Each Agent $i$ makes a decision $a^i$ by sampling from the softmax distribution of the current action preferences. The Bar consolidates the state $\bm{s}=\langle a^1,\ldots,a^N\rangle$, calculates the attendance $A$, and computes the payoff for each agent. The agent's information processor receives $\bm{s}$ and presents to the model an information state $\mathcal{S}$ according to is level. Next, the model updates the action preferences and the cycle repeats for $K$ rounds.
+Each Agent $i$ makes a decision $a^i$ by sampling from the softmax distribution of the current action preferences. The Bar consolidates the state $s=\langle a^1,\ldots,a^N\rangle$, calculates the attendance $A$, and computes the payoff for each agent. The agent's information processor receives $s$ and presents to the model an information state $\mathcal{S}$ according to is level. Next, the model updates the action preferences and the cycle repeats for $K$ rounds.
 
 Most learning rules come in three variants, which differ only in what they treat as $\mathcal{S}$:
 
